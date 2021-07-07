@@ -1,7 +1,7 @@
 # PHPMySQLUpdate
 
 # はじめに
-このPHPはMySQLのテーブル更新をする処理が記載されています。
+このPHPはMySQLのテーブル更新をする処理が記載されています。  
 htmlをWebサーバー上に配置してhtmlを呼び出すことによってJavascript経由でPHPがPostされます。
 
 ## 更新されたテストユーザレコード
